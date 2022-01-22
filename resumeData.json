@@ -1,0 +1,230 @@
+{
+  "personal": {
+    "name": "Casey P. Sullivan",
+    "position": "Web Developer",
+    "location": "Burlington, VT",
+    "objective": "To make the potentially boring fun with simple and informative user experience design using interesting technologies",
+    "email": "casey.sullivan+cv@gmail.com",
+    "likes": [
+      "Cycling",
+      "Collecting and aging tea",
+      "Vinyl records",
+      "Mechanical keyboards w/ HHKB layouts",
+      "Tabletop games",
+      "Street Fighter III: Third Strike",
+      "Wearing long underwear under sweatpants",
+      "165hz w/ Gsync",
+      "MTG Commander",
+      "Tuning my dotfiles",
+      "Giant Robots"
+    ],
+    "dislikes": ["Fingerprints on glossy plastic"]
+  },
+  "education": [
+    {
+      "degree": "B.S., Computer Science",
+      "school": "Saint Michael's College",
+      "location": "Colchester, VT",
+      "start": 2000,
+      "end": 2004
+    },
+    {
+      "degree": "High School",
+      "school": "Pittsburg School",
+      "location": "Pittsburg, NH",
+      "start": 1996,
+      "end": 2000
+    }
+  ],
+  "social": [
+    {
+      "service": "twitter",
+      "profile-url": "https://twitter.com/casey_sullivan"
+    },
+    {
+      "service": "linkedin",
+      "profile-url": "https://www.linkedin.com/in/caseypsullivan   "
+    },
+    {
+      "service": "github",
+      "profile-url": "https://www.linkedin.com/in/caseypsullivan   "
+    }
+  ],
+  "positions": [
+    {
+      "title": "Head of Product Design",
+      "company": "FrikinTech",
+      "location": "Williston, VT",
+      "industry": "Online Automotive Lead Generation",
+      "description": "Tools, assets and strategies for car dealers to interface with their customers focsuing on tailored car payments",
+      "start": 2015,
+      "end": 2018,
+      "duties": [
+        "Designed and implemented illumiQUOTE, a React-based SPA for car shoppers to browse a car dealership inventory by payment, taking into account a shoppers trade, credit, location and incentive elegibility",
+        "Designed and implemented WEBSITEiQ, a lightweight vanilla JS universal website plugin to display accurate car payments on dealer website search results pages and vehicle details pages",
+        "Designed and implemented custom email templates using clojure and hiccup to be used with targeted upgrade offer campaigns for existing dealership customers",
+        "Collaborated with industry experts and provided UX expertise to develop new car shopping workflows focused on lead conversion",
+        "Developed browser extensions used by our support team to ensure correct installation of our tools inside of third-party client CRMs"
+      ],
+      "links": [
+        {
+          "url": "https://www.frikintech.com",
+          "label": "FrikinTech.com"
+        }
+      ],
+      "class": "pwnie"
+    },
+    {
+      "title": "User Experience Designer/Developer",
+      "company": "Pwnie Express (Defunct)",
+      "defunct": true,
+      "location": "Burlington, VT",
+      "industry": "Cyber Security",
+      "description": "Hardware and software solutions for automated threat detection of rogue, misconfigured, and unauthorized wired and wireless devices in and around physical locations",
+      "start": 2015,
+      "end": 2018,
+      "duties": [
+        "Lead design and development of next-gen React-based SPA provied to customers to manage devices and review threats on their networks",
+        "Designed and implemented high-level executive focused report cards to easily digest security health",
+        "Ran product demos of our solutions and gathered saled leads at trade shows",
+        "Provided support and maintence of Ember JS based legacy client apps",
+        "Particpated in constant code reviews and information disemination to facilitate team growth"
+      ],
+      "links": [
+        {
+          "url": "https://web.archive.org/web/20190302023642/https://www.pwnieexpress.com/",
+          "label": "PwnieExpress.com (Wayback)"
+        }
+      ],
+      "class": "pwnie"
+    },
+    {
+      "title": "User Interface Developer",
+      "company": "Dealer.com",
+      "location": "Burlington, VT",
+      "industry": "Online Automotive",
+      "description": "",
+      "start": 2010,
+      "end": 2015,
+      "duties": [
+        "UI/UX developer and designer for DT CRM, the fastest growing automotive CRM in the US",
+        "Designed and developed the Dealer.com Pencil Tool, a realtime car payment engine",
+        "Developed embedable js apps designed to augment existing apps without backend integrations",
+        "Met face-to-face with our dealership customers for demos and feedback",
+        "Created SFA, an internal CRM for in-house sales teams using Grails"
+      ],
+      "links": [
+        {
+          "url": "http://www.dealer.com",
+          "label": "Dealer.com"
+        },
+        {
+          "url": "https://us.dealertrack.com/content/dealertrack/en/crm.html",
+          "label": "Dealertrack CRM"
+        },
+        {
+          "url": "http://www.coxautoinc.com/",
+          "label": "Cox Automotive"
+        }
+      ],
+      "class": "ddc"
+    },
+    {
+      "title": "Interactive Developer",
+      "company": "Propeller Media Works",
+      "location": "Burlington, VT",
+      "industry": "Website Development",
+      "description": "",
+      "start": 2009,
+      "end": 2010,
+      "duties": [
+        "Senior PHP developer for one of the most established web firms in Burlington",
+        "Maintenance and additional development on 40+ existing client sites",
+        "Research of new and progressing technology for integration into existing products",
+        "Consulting on CSS and JS possibilities for design projects",
+        "Prototyping next generation of in-house CMS system in Ruby on Rails"
+      ],
+      "links": [
+        {
+          "url": "http://www.propelled.com",
+          "label": "Propeller Media Works"
+        },
+        {
+          "url": "http://ncsmokehouse.com",
+          "label": "North Country Smokehouse"
+        }
+      ],
+      "class": "propeller"
+    },
+    {
+      "title": "Manager Software + Analytics",
+      "company": "EpikOne",
+      "defunct": true,
+      "location": "Burlington, VT",
+      "industry": "Online Marketing Services",
+      "description": "",
+      "start": 2007,
+      "end": 2009,
+      "duties": [
+        "Lead Ruby on Rails developer for one of the premier Google Analytics Authorized Consultancies",
+        "Led development of SiteScan and AnalyticsView, EpikOne's two general public apps",
+        "Built DigitalMIDI, a marketing communications dashboard for enterprise",
+        "Extensive development using the Google Analytics API",
+        "General Mac desktop support and technology consulting",
+        "Created the EpikOne.com website using standards-based XHTML and CSS"
+      ],
+      "links": [
+        {
+          "url": "https://web.archive.org/web/20090503125637/http://www.epikone.com/",
+          "label": "EpikOne at Archive.org"
+        }
+      ],
+      "class": "epikone"
+    },
+    {
+      "title": "HTML Production",
+      "company": "Bluehouse Group",
+      "location": "Richmond, VT",
+      "industry": "Website Development",
+      "description": "",
+      "start": 2005,
+      "end": 2007,
+      "duties": [
+        "Developer of standards-based HTML and CSS, and PHP sites ranging from simple brochure sites to high-end e-commerce",
+        "Web site production, development, and maintenance of over 30 sites",
+        "Translation of designs from Photoshop into HTML and CSS",
+        "Research of new technologies for use on future projects, such as Ajax and Ruby on Rails",
+        "Helped develop Content Creator, a CMS system for sites that allows clients to build out the content of a site themselves"
+      ],
+      "links": [
+        {
+          "url": "http://www.bluehousegroup.com",
+          "label": "Bluehouse Group"
+        },
+        {
+          "url": "http://www.newponyrecords.com/",
+          "label": "New Pony Records"
+        }
+      ],
+      "class": "bluehouse"
+    }
+  ],
+  "experience": {
+    "Technologies & Tools": [
+      "Javascript",
+      "React/Redux",
+      "Vue",
+      "Clojure/Clojurescript",
+      "Webpack",
+      "Parcel",
+      "Ruby on Rails",
+      "PHP",
+      "HTML",
+      "CSS/Sass",
+      "Git",
+      "Vim",
+      "Tmux"
+    ],
+    "Other Skills": ["Scrum Agile/SAFe", "Jira", "Vim", "Emacs (doom)", "AWS"]
+  }
+}
